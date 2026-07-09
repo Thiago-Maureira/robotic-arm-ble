@@ -1,4 +1,4 @@
-# 🦾 Bluetooth-Controlled Robotic Arm — ESP32 + Bluetooth Classic
+# Bluetooth-Controlled Robotic Arm — ESP32 + Bluetooth Classic
 
 > 4-DOF robotic arm controlled wirelessly from a mobile app via Bluetooth.
 > Built end-to-end: laser-cut MDF frame, firmware in C, custom command protocol.
@@ -134,8 +134,6 @@ Frame laser-cut from 3mm MDF. Each joint is independently mounted for modular re
 ## Authors
 
 - **Thiago Maureira Garcia** — Firmware, electronics, assembly
-- **Nicolas Paul Ajalla** — Mechanical design, assembly  
-- **Martin Lamandia Palacio** — Electronics, testing
 
 **Supervisor:** Ing. Daniel Cesca
 **Institution:** E.E.S.T. N°2 "Ing. César Cipolletti" — Bahía Blanca, Argentina (2023)
@@ -143,5 +141,4 @@ Frame laser-cut from 3mm MDF. Each joint is independently mounted for modular re
 ---
 
 ## License
-
 MIT — free to use, modify and distribute with attribution.
