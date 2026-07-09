@@ -131,7 +131,7 @@ Frame laser-cut from 3mm MDF. Each joint is independently mounted for modular re
 
 ---
 
-## Authors
+## Author
 
 - **Thiago Maureira Garcia** — Firmware, electronics, assembly
 
